@@ -1,3 +1,11 @@
+## KLine
+
+![KLine.gif](KLine.gif)
+
+## QuantumWallet
+
+![QuantumWallet.gif](QuantumWallet.gif)
+
 ## AI
 
 ![AI.gif](AI.gif)
@@ -6,15 +14,6 @@
 
 ![Cube.gif](Cube.gif)
 
-## KLine
-
-![KLine.gif](KLine.gif)
-
 ## MGoal
 
 ![MGoal.gif](MGoal.gif)
-
-## QuantumWallet
-
-![QuantumWallet.gif](QuantumWallet.gif)
-
